@@ -6,11 +6,9 @@ I'm a {Fullstack and mobile} developer but my focus in backend .
 
 <h2 align="center">You can reach me at :alien:</h2>
 
-<p align="center">
  - ![Badge](https://img.shields.io/badge/EntityFrameworkCore-5-blue) ![Badge](https://img.shields.io/badge/SQLServer-blue) ![Badge](https://img.shields.io/badge/Swagger-blue)
  - ![Badge](https://img.shields.io/badge/Swagger-orange)  ![Badge](https://img.shields.io/badge/AutoMapper-green) 
  - [Node.js](https://nodejs.org/en/) ![Badge](https://img.shields.io/badge/NodeJs-latest-blue)
-</p>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
