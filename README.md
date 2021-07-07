@@ -5,7 +5,21 @@ I'm a {Fullstack and mobile} developer but my focus in backend .
 - I work with ASP.NET CORE, Android.
 
 <h2 align="center">You can reach me at :alien:</h2>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-xavier-827500136/)](https://www.linkedin.com/in/guilherme-xavier-827500136/)
+
+<p align="center">
+ - ![Badge](https://img.shields.io/badge/EntityFrameworkCore-5-blue) ![Badge](https://img.shields.io/badge/SQLServer-blue) ![Badge](https://img.shields.io/badge/Swagger-blue)
+ - ![Badge](https://img.shields.io/badge/Swagger-orange)  ![Badge](https://img.shields.io/badge/AutoMapper-green) 
+ - [Node.js](https://nodejs.org/en/) ![Badge](https://img.shields.io/badge/NodeJs-latest-blue)
+</p>
+
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
