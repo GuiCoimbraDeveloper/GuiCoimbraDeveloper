@@ -27,3 +27,8 @@ I'm a {Fullstack and mobile} developer but my focus in backend. I have 7 years o
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GuiCoimbraDeveloper&show_icons=true&theme=synthwave" alt="GuiCoimbraDeveloper :: Profile Stats" /></p>
+
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoimbraDeveloper&repo=DevFitness&show_owner=true)](https://github.com/GuiCoimbraDeveloper/DevFitness)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiCoimbraDeveloper&repo=solid-api&show_owner=true)](https://github.com/GuiCoimbraDeveloper/solid-api)
