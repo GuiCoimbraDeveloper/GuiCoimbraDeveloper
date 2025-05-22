@@ -1,7 +1,7 @@
 <h2> Hi, I'm Guilherme! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### About me
-I'm a {Fullstack and mobile} developer but my focus in backend. I have 7 years of experience in systems development.
+I'm a {Fullstack and mobile} developer but my focus in backend. I have 11 years of experience in systems development.
 
 ### You can reach me at [![Linkedin: guilhermexavier](https://img.shields.io/badge/-guilhermexavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-xavier-827500136/)](https://www.linkedin.com/in/guilherme-xavier-827500136/)
 
